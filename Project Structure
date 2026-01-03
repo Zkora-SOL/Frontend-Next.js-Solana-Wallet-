@@ -1,0 +1,15 @@
+apps/web/
+├─ app/
+│ ├─ layout.tsx
+│ ├─ page.tsx
+│ └─ providers.tsx
+├─ components/
+│ ├─ WalletButton.tsx
+│ ├─ ZKPay.tsx
+│ ├─ ZKIdentity.tsx
+│ └─ ZKStorage.tsx
+├─ lib/
+│ ├─ zkora.ts
+│ └─ verifier.ts
+├─ public/
+└─ package.json
